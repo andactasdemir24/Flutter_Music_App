@@ -1,16 +1,9 @@
-# flutter_application_4
+# flutter_Music_App
 
-A new Flutter project.
+The music app I made with Flutter for the rapper MAESTRO, who died on February 15, 2023. RİP <3
 
-## Getting Started
+https://open.spotify.com/artist/6dn3wwfEYlRaQQUC8RLhTz?si=hkpA49DrR-ekAZ8Phf9PHw
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app1](https://user-images.githubusercontent.com/96003255/219884612-38f0cb92-ddef-4dc9-8228-8539a345ca4f.PNG)
+![app2](https://user-images.githubusercontent.com/96003255/219884615-a027b802-57fb-4090-887b-c8a45a6217b2.PNG)
+![app3](https://user-images.githubusercontent.com/96003255/219884617-a707fb06-2163-48f8-9bf0-9cf27681c5c2.PNG)
